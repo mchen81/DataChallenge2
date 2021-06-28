@@ -1,4 +1,7 @@
-# data-challenge-02-mchen81
+# Data Chanllenge 2
+
+# Data Description
+To predict wheather the payment type is cash or card from a vehicle which passed from a gateway.
 
 # Tasks
 To make the whole process clean and concise, I split up this assignment into 3 parts. 
